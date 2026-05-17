@@ -66,4 +66,5 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 Output:
 
 
-Result:
+Result:[Prompt lab exp1 Swathi A N (2).pdf](https://github.com/user-attachments/files/27872157/Prompt.lab.exp1.Swathi.A.N.2.pdf)
+
